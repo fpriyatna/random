@@ -1,5 +1,5 @@
-Name,Category,StartTime,EndTime,Poster/Demo,TopicVariety,PresentationLevel,MainTopic,NumberOfParticipants,SocialEvent
-ISWC/ESWC,A,09:00:00,17:00:00,High,Medium,High,Semantic Web,High,Yes
-WWW,A*,09:00:00,17:00:00,High,High,High,Web,High,Yes
-ICWE,A,09:00:00,17:00:00,High,Medium,Medium,Web Engineering,Medium,Yes
-SEKE,B,08:00:00,19:00:00,Low,Low,Low,Software Engineering,Low,No
+Name,Category,StartTime,EndTime,Poster/Demo,TopicVariety,PresentationLevel,MainTopic,NumberOfParticipants,SocialEvent, UniquePolicy, KeynoteStyle, TweetActivity
+ISWC/ESWC,A,09:00:00,17:00:00,High,Medium,High,Semantic Web,High,Yes,None,Entertainment,High
+WWW,A*,09:00:00,17:00:00,High,High,High,Web,High,Yes,None,Serious,High
+ICWE,A,09:00:00,17:00:00,High,Medium,Medium,Web Engineering,Medium,Yes,None,Serious,High
+SEKE,B,08:00:00,19:00:00,Low,Low,Low,Software Engineering,Low,No,Pay $100 to someone to present your work, Serious,Low
