@@ -1,0 +1,5 @@
+Name,Category,StartTime,EndTime,Poster/Demo,TopicVariety,PresentationLevel,MainTopic,NumberOfParticipants,SocialEvent
+ISWC/ESWC,A,09:00:00,17:00:00,High,Medium,High,Semantic Web,High,Yes
+WWW,A*,09:00:00,17:00:00,High,High,High,Web,High,Yes
+ICWE,A,09:00:00,17:00:00,High,Medium,Medium,Web Engineering,Medium,Yes
+SEKE,B,08:00:00,19:00:00,Low,Low,Low,Software Engineering,Low,No
